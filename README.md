@@ -1,3 +1,5 @@
+Course instructor : Sotirios Ioannidis
+TA : Eva Papadogiannaki
 
 # Assignment 3 - Access Control Logging
 ##### Gravalos Georgios - Angelos, 2021030001
