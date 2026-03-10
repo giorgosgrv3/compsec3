@@ -1,4 +1,4 @@
-Course instructor : Sotirios Ioannidis
+Course instructor : Sotirios Ioannidis, 
 TA : Eva Papadogiannaki
 
 # Assignment 3 - Access Control Logging
